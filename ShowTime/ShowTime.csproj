@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{164EACF9-728F-4FFC-B4C1-F3EC75AA66DF}</ProjectGuid>
+    <ProjectGuid>{18C656C7-8DCA-4394-9E17-E9079F74BFB2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_00LS</RootNamespace>
-    <AssemblyName>00LS</AssemblyName>
+    <RootNamespace>ShowTime</RootNamespace>
+    <AssemblyName>ShowTime</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

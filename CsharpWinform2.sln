@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00LS", "00LS\00LS.csproj", "{164EACF9-728F-4FFC-B4C1-F3EC75AA66DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowTime", "ShowTime\ShowTime.csproj", "{18C656C7-8DCA-4394-9E17-E9079F74BFB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "show me the ASCII", "show me the ASCII\show me the ASCII.csproj", "{6C541DFD-D4D9-411E-8395-204BE596FC20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{164EACF9-728F-4FFC-B4C1-F3EC75AA66DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{164EACF9-728F-4FFC-B4C1-F3EC75AA66DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{164EACF9-728F-4FFC-B4C1-F3EC75AA66DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C656C7-8DCA-4394-9E17-E9079F74BFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C656C7-8DCA-4394-9E17-E9079F74BFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C656C7-8DCA-4394-9E17-E9079F74BFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C656C7-8DCA-4394-9E17-E9079F74BFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C541DFD-D4D9-411E-8395-204BE596FC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C541DFD-D4D9-411E-8395-204BE596FC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C541DFD-D4D9-411E-8395-204BE596FC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C541DFD-D4D9-411E-8395-204BE596FC20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

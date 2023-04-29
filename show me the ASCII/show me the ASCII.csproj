@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{164EACF9-728F-4FFC-B4C1-F3EC75AA66DF}</ProjectGuid>
+    <ProjectGuid>{6C541DFD-D4D9-411E-8395-204BE596FC20}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_00LS</RootNamespace>
-    <AssemblyName>00LS</AssemblyName>
+    <RootNamespace>show_me_the_ASCII</RootNamespace>
+    <AssemblyName>show me the ASCII</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadAndGetASCII.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
